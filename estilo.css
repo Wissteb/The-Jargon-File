@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+/* Wissal Tebai 
+04/12/2018 */
+
+
+h1 {
+  font-size: 350%;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+
+
+body {
+    background-color: hsl(198, 50%, 85%);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+p {
+  text-align: justify;
+}
+
+blockquote {
+  font-style: oblique;
+}
+
+
+h2 {
+  background-color: hsl(198, 50%, 50%);
+  font-size: 250%;
+}
+
+h3 {
+  background-color: hsl(198, 50%, 65%);
+  color: white;
+  font-size: 200%;
+}
+
+
+address {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: right;
+}
+
+pre {
+  background-color: white;
+  font-size: 100%;
+  font-weight: bold;
+}
+
